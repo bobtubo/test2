@@ -24,3 +24,4 @@ sudo cp devops.jpg /usr/share/nginx/html
 
 
 
+# test2
